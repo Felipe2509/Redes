@@ -5,6 +5,14 @@ Capitulo 1
 Como se explica en el capítulo 1 los seres humanos somos seres extremadamente sociables, por lo que la comunicación con otras personas es indispensable: por esto mismo el éxito y el efecto que tienen las redes sociales hoy en día, nos mantiene en una activa y continua comunicación casi instantánea, ocupandonos no solo con temas personales, si no laborales, de aprendizaje etc.
 
 2. Listar las actividades cotidianas que realiza usted utilizando internet
+
+	-Usar entornos colaborativos para temas laborales y académicos (como Github)
+	-Aplicaciones para videoconferencias para temas laborales y académicos
+	-Usar buscador para resolución de problemas
+	-Redes sociales para comunicación y entretenimiento personal
+	-Reproductores de música
+ 	-Servicios de streaming 
+
 3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
 
 WhatsApp
@@ -16,6 +24,12 @@ Instagram
 Gmail
 
 4. Describir los factores que afectan la calidad de las comunicaciones.
+
+	Hay factores externos e internos, los factores externos tienen que ver más con la calidad y
+	la cantidad de los dispositivos que se usan para las conexiones,  y los factores internos se refiere
+	a la complejidad de la información que se envía, ya que no es lo mismo envíar un mensaje de texto que
+ 	enviar un archivo de audio por ejemplo
+
 5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
 6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
 7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
