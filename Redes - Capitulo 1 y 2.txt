@@ -143,6 +143,9 @@ Internetwork es una malla global de redes interconectadas que permite la comunic
 	como por ejemplo los routers
 
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología? 
+
+Porque las tecnologías deben adaptarse a los protocolos, ya que estos protocolos son estándares 
+
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
 7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 8. Describir la diferencia entre los modelos de protocolo y modelos de referencia.
