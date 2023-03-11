@@ -164,3 +164,18 @@ Cada capa encapsula el PDU que recibe de la capa anterior con un nombre distinto
 	para explicar cómo deben interactuar los protocolos para tener una comunicación efectiva.	
 
 9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+
+TCP/IP: 
+Aplicación: Se encarga de la representación de los datos para el usuario, además de gestionar la codificación y la sesión de la comunicación entre los dispositivos finales
+Transporte: Es la encargada de llevar los paquetes de datos desde el dispositivo de origen hasta el dispositivo de destino.
+Internet: Enruta los datos usando la dirección IP para saber el dispositivo de origen y destino.
+Acceso a la red: Acceder a la red y cómo se transmiten los datos mediante el hardware
+OSI:  
+Aplicación: Proporciona los medios para la conectividad entre los individuos que utilizan las redes de datos
+Presentación: Se encarga de la representación de los datos que se transfieren entre la capa de presentación
+Sesión: Proporciona los servicios de sesiones para poder establecer, mantener y finalizar las sesiones de comunicación y administración del intercambio de datos
+Transporte: Se encarga de la segmentación, transferencia y reensamblado de los datos
+Red: Proporciona los servicios para hacer el intercambio de los datos entre los dispositivos finales
+Enlace de datos: Se encarga de la transmisión de los datos a través del medio físico de la red
+Física: Describe cómo se transmiten los datos y cómo se mantienen, activa y desactiva las conexiones físicas
+
