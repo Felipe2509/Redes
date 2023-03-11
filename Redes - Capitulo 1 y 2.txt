@@ -130,6 +130,9 @@ Los dispositivos y medios de una red son los elementos hardware, como dispositiv
 	exclusivo como entes gubernamentales, o redes públicas como por ejemplo el internet 
 
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+
+Internetwork es una malla global de redes interconectadas que permite la comunicación de manera pública o privada. Internet también en una interwork solo que esta es pública
+
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología? 
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
