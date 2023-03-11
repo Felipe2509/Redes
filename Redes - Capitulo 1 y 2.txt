@@ -111,6 +111,24 @@ Capitulo 2
 Los dispositivos y medios de una red son los elementos hardware, como dispositivos finales (computadores, servidores, etc.) y los medios como switches o routers. En el caso de los servicios son los software que utilizan los dispositivos para comunicarse a través de la red, que funcionan dando respuestas a solicitudes.
 
 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+
+	-Red: Una red son dos o más dispositivos conectados por medios físicos o inalámbricos con el fin de transportar información 
+	y permitir la comunicación entre dichos dispositivos finales
+
+	-LAN: Una red LAN es una red que se encuentra en un punto específico ya que suele tener un área máxima que puede cubrir sin 
+	perder información, generalmente tienen un administrador y son utilizadas en universidades, empresas o lugares donde se necesite 
+	una red privada.
+
+	-WAN: Cuando dos redes LAN que están a distancias considerables necesitan conectarse, se utilizan redes de área amplia (WAN) las 
+	cuales ofrecen proveedores de servicios de telecomunicaciones, estas empresas utilizan redes convergentes o una red para datos y 
+	otra  para voz, con el fin de poder comunicarse a largas distancias
+
+	-Internet: Al contrario de WAN y LAN el internet o red de redes no es una red privada por lo que puede conectarse a cualquier 
+	servicio que desee, y comunicarse con otros dispositivos conectados a este.
+	
+	-InternetWork: Interwork es una malla redes interconectadas que permiten la comunicación entre entidades que la dan uso 
+	exclusivo como entes gubernamentales, o redes públicas como por ejemplo el internet 
+
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología? 
