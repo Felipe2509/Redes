@@ -51,6 +51,27 @@ Calidad de servicio: La calidad de servicio que administra el router garantiza q
 Seguridad: Los administradores pueden proteger la red con seguridad proporcionada por hardware y software
 
 8. Investigar qué son las redes orientadas y no orientadas a la conexión.
+
+	Red orientada a conexión:  
+
+	una red orientada a conexión es un tipo de red en la cual se establece una conexión dedicada y exclusiva entre 
+	los dispositivos que se comunican, antes de que comience la transmisión de datos. En este tipo de red, los recursos 
+	de las diferentes ubicaciones de conmutación se destinan a proporcionar un número determinado de circuitos, lo que 
+	garantiza la calidad y consistencia de los mensajes transmitidos en la red. Además, el proveedor del servicio puede 
+	cargar a los usuarios por el período de tiempo en que la conexión se encuentra activa. Ejemplos de redes orientadas 
+	a conexión incluyen el sistema telefónico conmutado por circuito y las redes de servicios VPN.
+
+	Red no orientada a conexión: 
+
+	una red sin conexión se refiere a una red de comunicaciones en la que no se establece un circuito reservado 
+	entre el emisor y el receptor para cada transmisión. En una red sin conexión, cada mensaje se divide en múltiples 
+	paquetes individuales y se envía por separado a través de la red. Cada paquete es dirigido de forma independiente a 
+	su destino final, y en cada punto de conmutación se decide qué ruta utilizar para que el paquete llegue a su destino. 
+	Además, en una red sin conexión, las partes de los mensajes de diferentes orígenes pueden viajar por la red al mismo 
+	tiempo y utilizar recursos disponibles en cualquier momento para enviar paquetes al destino final. Esto proporciona 
+	un método para utilizar dinámicamente rutas redundantes sin intervención del usuario, lo que hace que la red sea tolerante 
+	a fallas y escalable.
+
 9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
 10. ¿Por qué importa la calidad del servicio en una red de datos? 
 
