@@ -6,6 +6,15 @@ Como se explica en el capítulo 1 los seres humanos somos seres extremadamente s
 
 2. Listar las actividades cotidianas que realiza usted utilizando internet
 3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado
+
+WhatsApp
+Messenger
+Telegram
+Slack
+Hangouts
+Instagram
+Gmail
+
 4. Describir los factores que afectan la calidad de las comunicaciones.
 5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
 6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
