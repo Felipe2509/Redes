@@ -134,6 +134,14 @@ Los dispositivos y medios de una red son los elementos hardware, como dispositiv
 Internetwork es una malla global de redes interconectadas que permite la comunicación de manera pública o privada. Internet también en una interwork solo que esta es pública
 
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+
+	-NIC: Es un adaptador LAN que conecta el dispositivo final con la red
+
+	-Puerto físico: Conector en un dispositivo de red en el cual el medio se conecta con un host o con otro dispositivo de red.
+
+	-Interfaz de red: Estas interfaces de red se utilizan para que los dispositivos interworking se conecte a una red individual, 
+	como por ejemplo los routers
+
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología? 
 6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
 7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
