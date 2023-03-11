@@ -107,6 +107,9 @@ Escalabilidad: Las aplicaciones deben ser capaces de escalar para adaptarse al c
 Capitulo 2
 
 1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
+
+Los dispositivos y medios de una red son los elementos hardware, como dispositivos finales (computadores, servidores, etc.) y los medios como switches o routers. En el caso de los servicios son los software que utilizan los dispositivos para comunicarse a través de la red, que funcionan dando respuestas a solicitudes.
+
 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
