@@ -31,6 +31,13 @@ Gmail
  	enviar un archivo de audio por ejemplo
 
 5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+
+Dispositivos: Los dispositivos por los cuales nos comunicamos en una red de datos pueden ser dispositivos finales, que es donde llega la información, como por ejemplo computadores y teléfonos y también están los dispositivos  intermedios que se utilizan para direccionar y administrar las redes como por ejemplo un router.
+Reglas: Las reglas son los protocolos que se tienen que seguir para la comunicación entre la red, como por ejemplo http que nos indica que estamos consumiendo un servicio.
+Medio: El medio es la red local o inalámbrica que permite el envío de la información 
+Mensaje: El mensaje es la información que se envía entre dispositivos por un medio con determinadas reglas transformado en bits
+
+
 6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
 7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
 8. Investigar qué son las redes orientadas y no orientadas a la conexión.
