@@ -73,6 +73,23 @@ Seguridad: Los administradores pueden proteger la red con seguridad proporcionad
 	a fallas y escalable.
 
 9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+
+- Descripción de calidad de servicio:
+
+La calidad de servicio (QoS) se refiere a la capacidad de una red para proporcionar servicios de comunicación que cumplan con ciertas especificaciones de rendimiento. Esto incluye la capacidad de garantizar la entrega oportuna y confiable de los datos, priorizar el tráfico de red en función de la importancia de las aplicaciones y garantizar un rendimiento constante y predecible de la red. Para lograr una buena calidad de servicio, es necesario administrar los recursos de red y utilizar técnicas para priorizar y clasificar los tipos de paquetes de datos en función de su importancia. La QoS es esencial para muchas aplicaciones críticas, como las llamadas de emergencia, la transmisión de vídeo en tiempo real y la gestión de procesos comerciales críticos.
+
+- Para mantener una buena calidad de servicio para las aplicaciones que lo requieren, se necesita una serie de factores clave, entre los que se incluyen:
+
+Disponibilidad: Las aplicaciones deben estar disponibles para su uso en todo momento, ya que cualquier interrupción en el servicio puede afectar negativamente la experiencia del usuario y la percepción de la calidad de servicio.
+
+Rendimiento: Las aplicaciones deben funcionar de manera rápida y eficiente, de modo que los usuarios puedan realizar sus tareas de manera eficaz y sin retrasos.
+
+Fiabilidad: Las aplicaciones deben ser confiables y funcionar sin errores o fallos, para que los usuarios puedan realizar sus tareas sin preocuparse por posibles interrupciones o pérdida de datos.
+
+Seguridad: Las aplicaciones deben ser seguras y proteger los datos de los usuarios de posibles amenazas externas.
+
+Escalabilidad: Las aplicaciones deben ser capaces de escalar para adaptarse al crecimiento y cambios en la demanda, para que los usuarios puedan seguir teniendo acceso a un servicio de calidad incluso en momentos de alta demanda.
+
 10. ¿Por qué importa la calidad del servicio en una red de datos? 
 
 Capitulo 2
