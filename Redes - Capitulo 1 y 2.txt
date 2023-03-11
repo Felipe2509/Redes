@@ -92,6 +92,18 @@ Escalabilidad: Las aplicaciones deben ser capaces de escalar para adaptarse al c
 
 10. ¿Por qué importa la calidad del servicio en una red de datos? 
 
+	La calidad del servicio es importante en una red de datos porque afecta directamente la experiencia del usuario final. 
+	Si los usuarios experimentan problemas de latencia, retrasos en la entrega de paquetes, pérdida de datos o caídas de 
+	conexión, su capacidad para utilizar la red y realizar tareas importantes puede verse comprometida.
+
+	Además, la calidad del servicio puede afectar a la productividad y eficiencia de una organización. Si la red de datos de 
+	una empresa no puede proporcionar una conexión fiable y constante, las operaciones comerciales pueden verse afectadas, lo 
+	que puede resultar en una disminución en la satisfacción del cliente y en pérdidas económicas.
+
+	Por lo tanto, mantener una buena calidad del servicio es esencial para garantizar un rendimiento óptimo de la red de datos, 
+	para que los usuarios puedan acceder a la información y aplicaciones que necesitan de manera eficiente y efectiva.
+
+
 Capitulo 2
 
 1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
